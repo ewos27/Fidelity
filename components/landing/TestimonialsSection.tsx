@@ -64,7 +64,7 @@ export default function TestimonialsSection() {
             See how we've helped our clients <span className="text-gradient">succeed</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            More than 45k+ investors using Fidelity Assured
+            More than 45k+ investors using Omega Capital Investment
           </p>
         </motion.div>
 

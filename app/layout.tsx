@@ -4,7 +4,7 @@ import { Toaster } from '@/components/ui/toaster'
 import { Preloader } from '@/components/preloader'
 
 export const metadata: Metadata = {
-  title: 'Fidelity Assured - Earn More with Staking & Rewards',
+  title: 'Omega Capital Investment - Earn More with Staking & Rewards',
   description: 'Join the future of decentralized finance. Stake, earn rewards, and grow your wealth with our advanced platform.',
   generator: 'v0.dev',
 }

@@ -1,4 +1,4 @@
-# Fidelity Assured Investment Platform
+# Omega Capital Investment Investment Platform
 
 A modern investment platform built with Next.js, Supabase, and Tailwind CSS.
 
