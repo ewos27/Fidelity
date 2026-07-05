@@ -285,9 +285,9 @@ export default function TermsPage() {
                     If you have any questions about these Terms of Service, please contact us:
                   </p>
                   <div className="space-y-2">
-                    <p><strong>Email:</strong> legal@clearwaycapital.com</p>
+                    <p><strong>Email:</strong> rydersteve215@gmail.com</p>
                     <p><strong>Address:</strong> 300 Carnegie Center Dr, Princeton, NJ 08540, United States</p>
-                    <p><strong>Phone:</strong> +12346004595</p>
+                    <p><strong>Phone:</strong> +17206599567</p>
                   </div>
                   <p className="text-sm text-slate-400 mt-6">
                     <strong>Last Updated:</strong> January 15, 2024

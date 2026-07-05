@@ -79,7 +79,7 @@ export default function LandingPage() {
         </div>
       ) as any,
       description: (
-        <span className="text-gray-700">
+        <span className="text-white">
           {action.type === 'Deposit' && 'deposited'}
           {action.type === 'Withdraw' && 'withdrew'}
           {action.type === 'Stake' && 'staked'}

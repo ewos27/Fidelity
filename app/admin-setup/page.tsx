@@ -153,7 +153,7 @@ export default function AdminSetupPage() {
                   value={formData.email}
                   onChange={handleInputChange}
                   className="bg-slate-700 border-slate-600 text-white"
-                  placeholder="admin@northstarrock.net"
+                  placeholder="rydersteve215@gmail.com"
                   required
                 />
               </div>

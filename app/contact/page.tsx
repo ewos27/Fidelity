@@ -185,7 +185,7 @@ export default function ContactPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-300 mb-2">Speak directly with our investment advisors</p>
-                  <p className="text-white font-semibold text-lg">+12346004595</p>
+                  <p className="text-white font-semibold text-lg">+17206599567</p>
                   <div className="flex items-center mt-2 text-sm text-gray-400">
                     <Clock className="w-4 h-4 mr-1" />
                     Monday - Friday, 9:00 AM - 6:00 PM EST
@@ -202,7 +202,7 @@ export default function ContactPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-300 mb-2">Get detailed responses to your questions</p>
-                  <p className="text-white font-semibold">support@clearwaycapital.com</p>
+                  <p className="text-white font-semibold">rydersteve215@gmail.com</p>
                   <div className="flex items-center mt-2 text-sm text-gray-400">
                     <Clock className="w-4 h-4 mr-1" />
                     Response within 24 hours

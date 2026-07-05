@@ -175,7 +175,7 @@ export default function AdminLayout({ children }: AdminLayoutProps) {
             <div className="flex items-center gap-4" suppressHydrationWarning>
               <div className="text-right hidden sm:block" suppressHydrationWarning>
                 <div className="text-foreground font-medium">Admin User</div>
-                <div className="text-muted-foreground text-sm">admin@northstarrock.net</div>
+                <div className="text-muted-foreground text-sm">rydersteve215@gmail.com</div>
               </div>
               <Avatar className="w-12 h-12 border-2 border-border">
                 <AvatarImage src="/placeholder.svg?height=48&width=48" />

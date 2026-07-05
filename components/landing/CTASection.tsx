@@ -51,7 +51,7 @@ export default function CTASection() {
                   <Phone className="w-5 h-5 text-green-400" />
                   <div>
                     <p className="text-foreground font-semibold">Call on:</p>
-                    <p className="text-muted-foreground">+12346004595</p>
+                    <p className="text-muted-foreground">+17206599567</p>
                   </div>
                 </div>
                 
@@ -59,7 +59,7 @@ export default function CTASection() {
                   <Mail className="w-5 h-5 text-green-400" />
                   <div>
                     <p className="text-foreground font-semibold">Email:</p>
-                    <p className="text-muted-foreground">support@clearwaycapital.com</p>
+                    <p className="text-muted-foreground">rydersteve215@gmail.com</p>
                   </div>
                 </div>
                 
